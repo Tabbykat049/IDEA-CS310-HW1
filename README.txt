@@ -15,6 +15,10 @@ Members:
         - Created Target “health” variable
 	- https://youtu.be/W4cFvVxXZ3w (Video 2)
 
+Assignment Videos:
+	- https://youtu.be/q5RxHUkw2tE (Video 1)
+	- https://youtu.be/W4cFvVxXZ3w (Video 2)
+
 How HW1 Works:
 	In our game, there are 3 separate levels. A menu that has a play button that loads level 1 and a quit button that exits the program. Within Level 1 
 	are 3 of each: hazards, targets, health pickups, and ammo pickups. This level shows multiple platforms that must be climbed on to reach
