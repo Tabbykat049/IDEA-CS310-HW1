@@ -1,6 +1,21 @@
 Members: 
         Esperanza Sanchez Valente
+        - Ammo
+          - Ammo pickups
+        - Created initial levels
+        - Created Level One enviorment
+        - Loading Level automatically Blueprint
+
         Tabitha Chatman
+        - Menu Scene
+        - Created Level Two enviorment
+        - Health pickups 
+        - Created Hazard
+        - Created Target “health” variable
+
+How HW1 Works:
+
+
 
 Reference Videos:
                   https://www.youtube.com/watch?v=zWI-36fIoDQ
